@@ -8,6 +8,6 @@ This repository contains the assignments texts and my implementation.
 
 No guarantee is made that everything works correctly.
 
-The assignments texts were written by people in the [Department of Informatics at the University of Oslo] (https://www.mn.uio.no/ifi/).
+The assignments texts were written by people in the [Department of Informatics at the University of Oslo](https://www.mn.uio.no/ifi/).
 
 If there are any issues, please feel free to contact me. 
